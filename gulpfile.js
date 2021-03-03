@@ -16,7 +16,8 @@ function browserSync(done) {
         baseDir: "./"
       },
       port: 3000,
-      startPath: './index.html'
+     // startPath: './index.html'
+      startPath: './css/outsystems-ui.css'
     });
     done();
   }

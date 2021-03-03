@@ -36,7 +36,11 @@ $color-primary-darkest: darken($color-primary, 15%);
 $color-primary-hover: #295fd6;
 $color-primary-selected: rgba(20, 110, 245, 0.12);
 
+<<<<<<< Updated upstream
 $color-secondary: #303d60 !default;
+=======
+$color-secondary: blue !default;
+>>>>>>> Stashed changes
 $color-secondary-lightest: lighten($color-secondary, 40%);
 $color-secondary-lighter: lighten($color-secondary, 25%);
 $color-secondary-light: lighten($color-secondary, 15%);
